@@ -47,3 +47,18 @@ Ensured multi-Availability Zone (AZ) redundancy for data durability and availabi
 Configured Nginx, Node.js, and React.js for the app and web tiers to optimize performance.
 Integrated load balancing mechanisms, utilizing an Application Load Balancer (ALB) for web traffic, conducting health checks, and establishing auto-scaling groups for dynamic resource adjustments.
 This comprehensive architecture not only provides a highly reliable environment for hosting web applications but also offers the scalability required to accommodate increased workloads, making it an ideal solution for web hosting on AWS.
+
+
+
+**Reference**
+![image](https://github.com/AjayAjex/AWS-Three-Tier-Web-Architecture/assets/106955998/054fcb1b-2f94-4f4f-acb7-9ffe20609f18)
+
+![image](https://github.com/AjayAjex/AWS-Three-Tier-Web-Architecture/assets/106955998/a57466b7-c874-49ad-b2f5-d6661ec7d3ee)
+
+![image](https://github.com/AjayAjex/AWS-Three-Tier-Web-Architecture/assets/106955998/064f3d3b-7b7b-49bd-8678-246b9b03d908)
+
+![image](https://github.com/AjayAjex/AWS-Three-Tier-Web-Architecture/assets/106955998/63633b2f-44ab-4090-b242-f252f47f907e)
+
+
+
+ 
