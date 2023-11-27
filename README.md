@@ -1,6 +1,7 @@
 # 3-Tier-Web-architecture
 
-![Uploading image.png…]()
+![image](https://github.com/AjayAjex/3-Tier-Web-architecture/assets/106955998/ce5947cf-4893-484f-9b0d-c979bf71c1d5)
+
 
 
 **Project Name: AWS Three-Tier Web Architecture**
